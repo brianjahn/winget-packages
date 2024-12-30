@@ -46,9 +46,6 @@
 					"PackageIdentifier" : "RealVNC.VNCServer"
 				},
 				{
-					"PackageIdentifier" : "Amazon.Corretto.17.JDK"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2005.x64"
 				},
 				{
