@@ -22,12 +22,6 @@
 					"PackageIdentifier" : "Notepad++.Notepad++"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.Office"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.OneDrive"
-				},
-				{
 					"PackageIdentifier" : "VideoLAN.VLC"
 				},
 				{
@@ -77,6 +71,12 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Teams"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.AzureDataStudio"
+				},
+				{
+					"PackageIdentifier" : "Cyanfish.NAPS2"
 				},
 			],
 			"SourceDetails" : 
